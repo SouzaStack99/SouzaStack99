@@ -43,7 +43,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <br/>
 <br/>
 
-### 📊Estatíticas 
+### 📊Estatísticas 
 
 ![SouzaStack99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaStack99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
