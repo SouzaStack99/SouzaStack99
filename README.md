@@ -1,15 +1,47 @@
-### Olá! Eu sou o SouzaStack99👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrresxg?igsh=OWt4OTd5amdoMXg2)
+# 👨🏻‍💻André Souza
 
-(![SouzaStack99 GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaStack99&show_icons=true&theme=dracula))
+`Desenvolvedor FullStack`
 
+Olá, Me chamo André Souza, tenho 18 anos e sou natural do interior do Ceará. Concluí meu ensino médio na escola profissionalizante EEEP Monsenhor Waldir Lopes de Castro com formação específica no curso Técncio de Desenvolvimento de Sitemas. Atualmente estou cursando Ciência da Computação na UFC. Meu objetivo é sempre ser melhor que ontem e me tornar um grande porfissional da área. 
+#   
+### 🤖Linguagens e Tecnologias
 
+<img
+align= "left"
+    alt = "CSS"
+    title = "CSS"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-### Tecnologias que uso no meu dia 
+<img 
+align= "left"
+    alt = "HTML"
+    title = "HTML"
+    width = "30px"
+    style = "padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
-<div style= "display: inline_block"><br/>
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align= "center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align = "center" alt = "html5" src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white "/>
-</div>
+<img 
+align= "left"
+    alt = "CSS"
+    title = "CSS"
+    width = "30px"
+    style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img 
+align= "left"
+    alt = "JAVASCRIPT"
+    title = "JAVASCRIPT"
+    width = "30px"
+    style = "padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<br/>
+<br/>
+
+### 📊Estatíticas 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaStack99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+
