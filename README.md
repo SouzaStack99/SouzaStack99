@@ -3,6 +3,8 @@
 `Desenvolvedor FullStack`
 
 Olá, Me chamo André Souza, tenho 18 anos e sou natural do interior do Ceará. Concluí meu ensino médio na escola profissionalizante EEEP Monsenhor Waldir Lopes de Castro com formação específica no curso Técncio de Desenvolvimento de Sitemas. Atualmente estou cursando Ciência da Computação na UFC. Meu objetivo é sempre ser melhor que ontem e me tornar um grande porfissional da área. 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andrresxg?igsh=OWt4OTd5amdoMXg2)
 #   
 ### 🤖Linguagens e Tecnologias
 
@@ -43,5 +45,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ### 📊Estatíticas 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaStack99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![SouzaStack99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouzaStack99&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
 
